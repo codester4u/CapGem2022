@@ -3,7 +3,7 @@ Create two threads and assign names ‘Scooby’ and ‘Shaggy’ to the two thr
 
 	Setting the name of the thread. 
     */
-public class ThreadQue1 {
+public class Main {
 
 	public static void main(String[] args) {
 		Thread t1 = new Thread("Scooby");
