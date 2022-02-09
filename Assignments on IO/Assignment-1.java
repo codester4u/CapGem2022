@@ -40,7 +40,7 @@ public class Main {
 				charCount++;
 		} while (ch != -1);
 				
-		System.out.println(filename + " has " + charCount + " instances of letter '" + count + "'.");
+		System.out.println("File '"+ filename + "' has " + charCount + " instances of letter '" + count + "'.");
 		
 		br.close();
 		sc.close();
